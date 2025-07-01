@@ -3,12 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/andyn3n/todolistreact",
+  "homepage": "https://andyn3n.github.io/todolistreact/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --force",
+    "deploy": "gh-pages -d dist --branch gh-pages --no-history",
     "lint": "eslint .",
     "preview": "vite preview"
   },
