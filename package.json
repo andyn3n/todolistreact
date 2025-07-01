@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://andyn3n.github.io/todolistreact/",
+  "homepage": "https://andyn3n.github.io/todolistreact",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
